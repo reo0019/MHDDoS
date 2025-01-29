@@ -3,5 +3,5 @@
   "features": {
     "python": "latest"
   },
-  "postStartCommand": "python /workspaces/reo0019/d.py"
+  "postStartCommand": "python /workspaces/MHDDoS/bot.py"
 }
