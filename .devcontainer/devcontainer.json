@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "python": "latest"
+  },
+  "postStartCommand": "python /workspaces/reo0019/d.py"
+}
